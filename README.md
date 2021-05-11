@@ -2,7 +2,7 @@
 - 👀 I'm a IT student, I’m interested in Web Designing & Video Editing
 - 🌱 I’m currently learning BSC Cloud Technology & Information Security in Assam Downtown University
 - 📫 If you want me to build a website for you or Edit a video for you,
--     you can Reach me at https://www.instagram.com/ankuronk/ & https://www.linkedin.com/in/ankuronk6/
+-     you can Reach me at https://www.linkedin.com/in/ankuronk6/
 
 <!---
 ankuronk/ankuronk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
