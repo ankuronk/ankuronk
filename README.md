@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ankuronk
-- 👀 I'm a IT student, I’m interested in Web Designing & Video Editing
-- 🌱 I’m currently studying BSC Cloud Technology & Information Security in Assam Downtown University
-- 📫 If you want me to build a website for you or Edit a video for you, you can Reach me at -
+- 👀 I'm a IT student.
+- 🌱 I’m currently pursuing Master of Science in Information Technology in Assam Royal Global University.
+- 📫 You can Reach me out at -
 -     https://www.linkedin.com/in/ankuronk6/
--     https://www.instagram.com/ankuronk/
+-     https://www.instagram.com/ankuron0702/
 
 <!---
 ankuronk/ankuronk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
