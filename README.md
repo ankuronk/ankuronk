@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankuronk
 - 👀 I'm a IT student.
-- 🌱 I’m currently pursuing Master of Science in Information Technology in Assam Royal Global University.
+- 🌱 Done Bachelor of Science in IT (Information Technology)
 - 📫 You can Reach me out at -
 -     https://www.linkedin.com/in/ankuronk6/
 -     https://www.instagram.com/ankuron0702/
